@@ -133,3 +133,8 @@ tree
 └── requirements.txt
 ```
 
+### 运行
+```
+docker-compose up
+```
+
