@@ -1,9 +1,8 @@
-[TOC]
-
 Docker Django HelloWorld 
 -----
 
 env
+
 ```
 ECS: CentOS 7.4 64
 
