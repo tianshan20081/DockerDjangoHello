@@ -1,8 +1,9 @@
-version: '2'
+version: '3'
 
 services:
   web:
     build: .
+    command: python3 manager.py runserver 0.0.0.0:8000
     ports:
       - "8000:8000"
     volumes:
